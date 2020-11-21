@@ -8,6 +8,7 @@ __pycache__/
 *.class
 # Distribution / packaging
 pythonenv3.8/
+hello-world/
 .vscode/
 .Python
 build/

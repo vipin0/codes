@@ -1,0 +1,16 @@
+6 bad scores: 
+   -3  104  300  -34   -3
+  101
+
+10 good scores: 
+   23    5   87   29   87
+    0  100   55   33   23
+
+
+The highest good score is 100
+The lowest good score is 0
+The average of good score is 44.2
+
+Sorted good Scores :
+    0    5   23   23   29
+   33   55   87   87  100
